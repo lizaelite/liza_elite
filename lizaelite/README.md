@@ -11,13 +11,14 @@ What is LizaElite?
 
 LizaElite is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
+ - free drop to liza coin holders at 1:1000
+ - option to win 10 LZET with built in quiz
  - 
 
 
 
-
 For more information, as well as an immediately useable, binary version of
-the LizaElite client sofware, see http://www.lizaelite.org.
+the LizaElite client sofware, see http://www.lizaelite.org.(pending)
 
 License
 -------
