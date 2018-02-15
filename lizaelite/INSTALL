@@ -1,0 +1,9 @@
+Building LizaElite
+
+See doc/readme-qt.rst for instructions on building LizaElite-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LizaElite.
+
+See doc/build-*.txt for instructions on building lizaelited,
+the intended-for-services, no-graphical-interface, reference
+implementation of LizaElite.
