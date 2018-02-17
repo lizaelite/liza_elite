@@ -272,10 +272,10 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 127, // LizaElite addresses start with L
-        SCRIPT_ADDRESS = 125,
-        PUBKEY_ADDRESS_TEST = 126,
-        SCRIPT_ADDRESS_TEST = 124,
+        PUBKEY_ADDRESS = 48, // LizaElite addresses start with L
+        SCRIPT_ADDRESS = 50,
+        PUBKEY_ADDRESS_TEST = 127,
+        SCRIPT_ADDRESS_TEST = 110,
     };
 
     bool Set(const CKeyID &id) {
