@@ -1,4 +1,4 @@
-# liza_elite
+# liza_elite   ON HOLD UNTIL JULY 2018.
 LizaElite is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 10 LZET per block
  - 2.5 minute block targets
